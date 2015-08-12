@@ -1,10 +1,17 @@
 #Video Game Controller Icons
 
-A collection of video game controller icons, both SVG and PNG versions. Each controller comes in 4 flavours; 
+![Video Game Controller Icons](/master/preview.pnge "Video Game Controller Icons")
+
+A collection of SVG and PNG Video Game Controller icons. Each controller comes in 4 flavours: 
 - Full colour
 - Colour line
 - Black line
-- White line.
+- White line
+
+Current controllers in the collection are:
+- NES
+- SNES
+- SEGA Mega Drive II
 
 **PNG** icons are in the following sizes: 500x500, 250x250 and 100x100
 
