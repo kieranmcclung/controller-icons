@@ -1,6 +1,6 @@
 #Video Game Controller Icons
 
-![Video Game Controller Icons](/master/preview.pnge "Video Game Controller Icons")
+![Video Game Controller Icons](/blob/master/preview.png "Video Game Controller Icons")
 
 A collection of SVG and PNG Video Game Controller icons. Each controller comes in 4 flavours: 
 - Full colour
