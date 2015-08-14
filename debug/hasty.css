@@ -1,0 +1,10 @@
+@font-face {
+   font-family: 'HastyReg';
+   src: url('../fonts/hastytasty-webfont.eot');
+   src: url('../fonts/hastytasty-webfont.eot#iefix') format('embedded-opentype'),
+      url('../fonts/hastytasty-webfont.woff') format('woff'),
+      url('../fonts/hastytasty-webfont.ttf') format('truetype'),
+      url('../fonts/hastytasty-webfont.svg#HastyReg') format('svg');
+   font-weight: normal;
+   font-style: normal;
+}
