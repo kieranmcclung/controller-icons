@@ -9,7 +9,7 @@ A collection of SVG and PNG Video Game Controller icons. Each controller comes i
 - White line
 
 Current controllers in the collection are:
-- N64 ***NEW***
+- N64 **new**
 - NES
 - SNES
 - SEGA Mega Drive II
